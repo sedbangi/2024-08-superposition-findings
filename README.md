@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Superposition Audit
 
 Audit findings are submitted to this repo.
 
