@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "If liquidity is insufficient, users may need to pay more tokens in swap2",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/12"
+}
