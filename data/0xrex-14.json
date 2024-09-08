@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "Unset `fee_protocol` forces protocol fee loss during swaps",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/14"
+}
