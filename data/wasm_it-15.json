@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "wasm_it",
+  "risk": "3",
+  "title": "Malicious liquidity provider will earn fees by concentrating liquidity in a zero tick range",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/15"
+}
