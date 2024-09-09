@@ -1,8 +1,0 @@
-{
-  "contest": 428,
-  "handle": "0xrex",
-  "risk": "2",
-  "title": "Pools with fee structure greater than 1.3% cannot be created because of tick_spacing",
-  "issueId": 10,
-  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/10"
-}
