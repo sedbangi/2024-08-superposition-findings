@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "seawaterAMM.sol's fallback() will revert due to incorrect calldata handling",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/16"
+}
