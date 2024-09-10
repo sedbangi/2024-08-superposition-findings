@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "Missing slippage protection in update_position_C_7_F_1_F_740() flow",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/19"
+}
