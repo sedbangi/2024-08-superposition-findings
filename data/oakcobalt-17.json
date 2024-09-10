@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "Incorrect token-in transfer amount implementation in swap2, which might cause user loss of funds.",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/17"
+}
