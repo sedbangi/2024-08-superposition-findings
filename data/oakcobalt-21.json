@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "set_sqrt_price() causing price and tick out of sync, resulting in incorrect liquidity and swap calculation",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/21"
+}
