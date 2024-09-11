@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "Artificially reset pool price will cause invalid swap steps, all subsequent swap to use wrong pool liquidity",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/22"
+}
