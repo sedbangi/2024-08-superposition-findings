@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "oakcobalt",
+  "risk": "2",
+  "title": "swap_2 implementation will randomly revert due to improper check, root cause for failed test ethers_suite_uniswap_orchestrated_uniswap_two",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/30"
+}
