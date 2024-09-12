@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "Incorrect verification of onERC721Received callback success",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/26"
+}
