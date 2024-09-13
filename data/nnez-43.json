@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "`swap_2_exact_in_41203_F1_D` incorrecty assumes `amount_in` used in swap operation leading to overpayment of caller and funds stuck",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/43"
+}
