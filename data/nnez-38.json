@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "Insufficient validation of tickLower and tickUpper when creating a new position",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/38"
+}
