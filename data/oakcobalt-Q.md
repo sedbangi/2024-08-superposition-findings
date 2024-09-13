@@ -72,7 +72,54 @@ The directly minted fUSDC or other reward tokens to SeawaterAMM.sol proxy will N
 Recommendations:
 In the admin facet, add an admin-only function to transfer fUSDC (or other reward tokens) out. The rewarded amount can be calculated off-chain.
 
+### Low-03 Risk of `mint_position_B_C5_B086_D` spamming with 0 liquidity for profits
+**Instances(1)**
+`mint_position_B_C5_B086_D` will simply mint a position tokenId for anyone who calls it. It doesn't require any liquidity deposit. THis means a caller can easily spam call `mint_position_B_C5_B086_D` with marginal gas cost. 
+```rust
+//pkg/seawater/src/lib.rs
+    pub fn mint_position_B_C5_B086_D(
+        &mut self,
+        pool: Address,
+        lower: i32,
+        upper: i32,
+    ) -> Result<U256, Revert> {
+        let id = self.next_position_id.get();
+        self.pools.setter(pool).create_position(id, lower, upper)?;
+        self.next_position_id.set(id + U256::one());
+        let owner = msg::sender();
+|>      self.grant_position(owner, id);
+        #[cfg(feature = "log-events")]
+        evm::log(events::MintPosition {
+            id,
+            owner,
+            pool,
+            lower,
+            upper,
+        });
+        Ok(id)
+    }
+```
+(https://github.com/code-423n4/2024-08-superposition/blob/4528c9d2dbe1550d2660dac903a8246076044905/pkg/seawater/src/lib.rs#L508)
 
+(1) Empty positions
+This allows anyone to create empty positions with no consequences at a very low cost. 
+
+(2) Risk of `next_position_id` overflow wrapping exploits
+`mint_position_B_C5_B086_D` uses `+` (`add`) to increment `next_position_id`. `add` is from ruint.1.12.3 which uses `wrapping_add` under the hood.
+```rust
+///.../.cargo/registry/src/index.crates.io-6f17d22bba15001f/ruint-1.12.3/src/add.rs
+impl_bin_op!(Add, add, AddAssign, add_assign, wrapping_add);
+```
+
+This means when enough real positions and spam positions are created, it
+s possible to spam `mint_position_B_C5_B086_D` further to cause `next_position_id` overflow wrapping to a real position with liquidity. 
+
+This allows the exploit to be profitable.
+Suppose an attack spam `mint_position_B_C5_B086_D` further causes `next_position_id` overflow wrap to 0. Now the attacker steals position 0 and becomes the owner.
+If positionId 0 has liquidity worth more than the cost of the attack. The attacker can withdraw all liquidity from position id 0 and materialize a profit.
+
+Recommendations:
+Consider enforcing atomic position liquidity by adding in mint_position and enforcing a minimum liquidity threshold. 
 
 
 
