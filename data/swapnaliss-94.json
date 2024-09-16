@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "swapnaliss",
+  "risk": "2",
+  "title": "Inverted Logic in ERC721 Receiver Check",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/94",
+  "originalIssueId": 180,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/180"
+}
