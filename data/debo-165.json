@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "debo",
+  "risk": "2",
+  "title": "OwnershipNFTs contract has Inconsistent Callback Verification in safeTransferFrom Functions",
+  "issueId": 165,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/165",
+  "originalIssueId": 8,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/8"
+}
