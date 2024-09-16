@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "adeolu",
+  "risk": "2",
+  "title": "OwnershipNFTs.sol is not ERC721 compliant, doesnt implement the ERC165 interface. ",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/161",
+  "originalIssueId": 18,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/18"
+}
