@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Users cannot remove liquidity when the pool is disabled.",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/154",
+  "originalIssueId": 32,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/32"
+}
