@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Incorrect checking of the returned data from the callback results in a safeTransferFrom() method revert",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/131",
+  "originalIssueId": 71,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/71"
+}
