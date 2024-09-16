@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "debo",
+  "risk": "2",
+  "title": "OwnershipNFTs contract has Unchecked Return Value of onERC721Received function",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/127",
+  "originalIssueId": 77,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/77"
+}
