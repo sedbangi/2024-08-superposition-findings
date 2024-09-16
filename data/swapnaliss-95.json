@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "swapnaliss",
+  "risk": "2",
+  "title": "Missing Required ERC721 Events",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/95",
+  "originalIssueId": 178,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/178"
+}
