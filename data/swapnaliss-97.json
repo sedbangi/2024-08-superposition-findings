@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "swapnaliss",
+  "risk": "3",
+  "title": " Incorrect Implementation of ERC721 Standard",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/97",
+  "originalIssueId": 176,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/176"
+}
