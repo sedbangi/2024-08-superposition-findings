@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ZanyBonzy",
+  "risk": "3",
+  "title": "Incorrect amount taken users may lead to paying excess during erc20 swaps",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/126",
+  "originalIssueId": 79,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/79"
+}
