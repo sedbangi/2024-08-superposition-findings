@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Incorrect require statement in _onTransferReceived()",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/157",
+  "originalIssueId": 26,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/26"
+}
