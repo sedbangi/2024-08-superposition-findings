@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Agontuk",
+  "risk": "2",
+  "title": "Incorrect `require` statement will reject valid transfers and allow invalid ones",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/110",
+  "originalIssueId": 129,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/129"
+}
