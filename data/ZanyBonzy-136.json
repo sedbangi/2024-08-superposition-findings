@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ZanyBonzy",
+  "risk": "3",
+  "title": "Use of checked arithmetic when handling fee growth",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/136",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/65"
+}
