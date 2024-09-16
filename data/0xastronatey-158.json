@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "0xastronatey",
+  "risk": "3",
+  "title": "Incorrect Logic in _onTransferReceived Function Causes Valid ERC721 Safe Transfers to Fail",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/158",
+  "originalIssueId": 22,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/22"
+}
