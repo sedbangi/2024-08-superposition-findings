@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "devival",
+  "risk": "3",
+  "title": "The `authorised_enablers` can disable pools",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/82",
+  "originalIssueId": 219,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/219"
+}
