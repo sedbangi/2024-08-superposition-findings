@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "DadeKuma",
+  "risk": "2",
+  "title": "Unintended under/overflow of the amount already swapped in/out due to unmatching logic",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/50",
+  "originalIssueId": 185,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/185"
+}
