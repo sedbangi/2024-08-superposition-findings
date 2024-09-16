@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "DadeKuma",
+  "risk": "2",
+  "title": "It is not possible to set protocol fees, which results in the protocol losing funds",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/144",
+  "originalIssueId": 52,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/52"
+}
