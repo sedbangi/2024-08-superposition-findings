@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "d4r3d3v1l",
+  "risk": "2",
+  "title": "Emergency Council Update Function Incorrectly Updates NFT Manager",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/78",
+  "originalIssueId": 229,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/229"
+}
