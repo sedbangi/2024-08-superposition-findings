@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "SBSecurity",
+  "risk": "3",
+  "title": "callback of OwnershipNFT's safe operation has wrong require check",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/73",
+  "originalIssueId": 238,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/238"
+}
