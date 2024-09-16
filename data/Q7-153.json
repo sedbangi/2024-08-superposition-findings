@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Q7",
+  "risk": "2",
+  "title": "Incorrect implementation for `updateEmergencyCouncil`",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/153",
+  "originalIssueId": 36,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/36"
+}
