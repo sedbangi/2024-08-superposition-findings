@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "devival",
+  "risk": "3",
+  "title": "Tick `low` can be set higher than tick `up` when creating a position in `pool.create_position`",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/79",
+  "originalIssueId": 223,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/223"
+}
