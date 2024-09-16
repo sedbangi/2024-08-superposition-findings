@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ZanyBonzy",
+  "risk": "3",
+  "title": "Incorrectly assigned roles when updating emergency council",
+  "issueId": 137,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/137",
+  "originalIssueId": 64,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/64"
+}
