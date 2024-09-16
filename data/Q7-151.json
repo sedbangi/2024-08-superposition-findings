@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Q7",
+  "risk": "2",
+  "title": "Fees calculations don’t allow overflowing/underflowing",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/151",
+  "originalIssueId": 38,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/38"
+}
