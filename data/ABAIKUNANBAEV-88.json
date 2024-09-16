@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Price is not correctly updated in the swap() function",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/88",
+  "originalIssueId": 195,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/195"
+}
