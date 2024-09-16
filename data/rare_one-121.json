@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "rare_one",
+  "risk": "2",
+  "title": "No Validation of Input Ranges",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/121",
+  "originalIssueId": 88,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/88"
+}
