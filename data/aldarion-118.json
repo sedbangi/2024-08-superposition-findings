@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "aldarion",
+  "risk": "2",
+  "title": "fee_growth_inside calculations doesnt allow oveflow/underflow",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/118",
+  "originalIssueId": 92,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/92"
+}
