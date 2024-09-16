@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "0xAleko",
+  "risk": "2",
+  "title": "OwnershipNFT transfer via `safeTransferFrom` to non-EOA will be reverted.",
+  "issueId": 159,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/159",
+  "originalIssueId": 20,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/20"
+}
