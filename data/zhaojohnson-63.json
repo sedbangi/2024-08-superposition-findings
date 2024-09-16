@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Missing update current tick when we call set_sqrt_price_F_F_4_D_B_98_C()",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/63",
+  "originalIssueId": 30,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/30"
+}
