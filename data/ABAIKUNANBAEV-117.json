@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Values are not casted into uint160 in multiple occasions in sqrt_price_math library",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/117",
+  "originalIssueId": 95,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/95"
+}
