@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "pipidu83",
+  "risk": "3",
+  "title": "Unnecessary assertion in `swap_2_internal` causes valid swaps to fail",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/147",
+  "originalIssueId": 46,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/46"
+}
