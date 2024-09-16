@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "SBSecurity",
+  "risk": "2",
+  "title": "position.update fees operations must be in unchecked",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/69",
+  "originalIssueId": 243,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/243"
+}
