@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "add_delta() has incorrect checks for the result of the add/sub operations",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/115",
+  "originalIssueId": 97,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/97"
+}
