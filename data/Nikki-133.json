@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Nikki",
+  "risk": "3",
+  "title": "Incorrect Validation in `_onTransferReceived` Function Leads to Stuck Tokens and Failed Transfers",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/133",
+  "originalIssueId": 69,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/69"
+}
