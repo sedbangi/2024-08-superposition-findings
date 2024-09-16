@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "aldarion",
+  "risk": "3",
+  "title": "Missing Validation for Tick Bounds in Position Creation",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/122",
+  "originalIssueId": 87,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/87"
+}
