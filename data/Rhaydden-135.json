@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Rhaydden",
+  "risk": "3",
+  "title": "Incorrect ERC721 receiver check causes safe transfers to always fail",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/135",
+  "originalIssueId": 67,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/67"
+}
