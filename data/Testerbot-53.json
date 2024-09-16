@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Testerbot",
+  "risk": "3",
+  "title": "Incorrect Decoding of Swap Results Leads to Ineffective Slippage Protection",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/53",
+  "originalIssueId": 154,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/154"
+}
