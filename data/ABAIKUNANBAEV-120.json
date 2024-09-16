@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "get_sqrt_ratio_at_tick() has different implementation than the one in UniV3",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/120",
+  "originalIssueId": 90,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/90"
+}
