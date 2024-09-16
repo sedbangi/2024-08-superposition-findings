@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "tick.rs does not allow for fees to under/overflow, as it is supposed to be",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/111",
+  "originalIssueId": 107,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/107"
+}
