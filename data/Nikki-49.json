@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Nikki",
+  "risk": "2",
+  "title": "OwnershipNFTs do not comply with ERC721, breaking composability",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/49",
+  "originalIssueId": 188,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/188"
+}
