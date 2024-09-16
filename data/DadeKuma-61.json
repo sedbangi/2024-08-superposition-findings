@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "DadeKuma",
+  "risk": "2",
+  "title": "Min tick has wrong rounding making part of the liquidity range unaccessible",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/61",
+  "originalIssueId": 53,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/53"
+}
