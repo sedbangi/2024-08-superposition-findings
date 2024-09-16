@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Emergency council update function  incorrectly updates `nft_manager` instead of `emergency_council`",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/134",
+  "originalIssueId": 68,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/68"
+}
