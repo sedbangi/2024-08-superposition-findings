@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "DadeKuma",
+  "risk": "3",
+  "title": "Position's fee growth can revert resulting in funds permanently locked",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/142",
+  "originalIssueId": 56,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/56"
+}
