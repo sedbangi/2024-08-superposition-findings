@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Q7",
+  "risk": "3",
+  "title": "Missing `lower<upper` check in `mint_position`",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/149",
+  "originalIssueId": 42,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/42"
+}
