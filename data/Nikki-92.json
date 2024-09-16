@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Nikki",
+  "risk": "3",
+  "title": "Missing Tick Range Validation in create_position Function",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/92",
+  "originalIssueId": 189,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/189"
+}
