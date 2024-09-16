@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ZanyBonzy",
+  "risk": "3",
+  "title": "Token approvals are not revoked upon transfer which can opens up unwanted backdoors into the NFTs",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/141",
+  "originalIssueId": 57,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/57"
+}
