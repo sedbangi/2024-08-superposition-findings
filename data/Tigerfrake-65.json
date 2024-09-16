@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Tigerfrake",
+  "risk": "3",
+  "title": "`approve()` shouldn't be called by the approved address for that `tokenId`",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/65",
+  "originalIssueId": 10,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/10"
+}
