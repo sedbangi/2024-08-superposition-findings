@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "get_next_sqrt_price_from_amount_1_rounding_down() uses overflowing_sub not making sure the value always fits into uint160",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/116",
+  "originalIssueId": 96,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/96"
+}
