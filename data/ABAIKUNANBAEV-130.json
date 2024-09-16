@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "approve() function in the OwnershipNFT contract has incorrect authorization check",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/130",
+  "originalIssueId": 72,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/72"
+}
