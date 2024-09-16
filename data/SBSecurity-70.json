@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "SBSecurity",
+  "risk": "2",
+  "title": "Missing check if liquidity is not increasing when updating positions",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/70",
+  "originalIssueId": 242,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/242"
+}
