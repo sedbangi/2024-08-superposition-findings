@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "devival",
+  "risk": "2",
+  "title": "The `authorised_enablers` are not allowed to create new pools",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/80",
+  "originalIssueId": 221,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/221"
+}
