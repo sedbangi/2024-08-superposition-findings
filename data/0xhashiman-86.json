@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "0xhashiman",
+  "risk": "3",
+  "title": "Fix for fees calculations",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/86",
+  "originalIssueId": 208,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/208"
+}
