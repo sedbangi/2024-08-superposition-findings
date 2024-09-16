@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "DadeKuma",
+  "risk": "3",
+  "title": "Position's owed fees should allow underflow but it reverts instead, resulting in locked funds",
+  "issueId": 143,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/143",
+  "originalIssueId": 55,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/55"
+}
