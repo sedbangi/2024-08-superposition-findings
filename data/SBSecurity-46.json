@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "SBSecurity",
+  "risk": "3",
+  "title": "`get_fee_growth_inside` in `tick.rs` should allow for `underflow`/`overflow` but doesn't",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/46",
+  "originalIssueId": 236,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/236"
+}
