@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "X96 sqrt ratio calculated is wrong whenever `(abs_tick & 1) != 0` & `(abs_tick & 0x2) != 0`",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/44",
+  "originalIssueId": 259,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/259"
+}
