@@ -1,0 +1,10 @@
+{
+  "contest": 428,
+  "handle": "13u9",
+  "risk": "2",
+  "title": "When performing 'swap' and the swap position does not cover 'swap amount', the base price of 'sqrt_price' is set incorrectly.",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/58",
+  "originalIssueId": 61,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-08-superposition-validation/issues/61"
+}
