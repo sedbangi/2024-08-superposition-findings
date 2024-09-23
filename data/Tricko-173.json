@@ -1,0 +1,8 @@
+{
+  "contest": 428,
+  "handle": "Tricko",
+  "risk": "2",
+  "title": "Incorrect underflow handling in `tick::get_fee_growth_inside()` may prevent position modifications",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2024-08-superposition-findings/issues/173"
+}
